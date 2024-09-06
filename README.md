@@ -1,8 +1,10 @@
 # Bug Report
-**Apa itu Bug Report?**
-* Bug adalah 
+## **Apa itu Bug Report?**
+### Bug adalah ...
+### ...
 
-# **Priority vs Severity**
+## **Priority vs Severity**
+### lorem ipsum
 
-
-# **How to report the bug?**
+## **How to report the bug?**
+### lorem ipsum

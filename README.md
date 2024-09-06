@@ -1,6 +1,6 @@
 # Bug Report
 **Apa itu Bug Report?**
-  bug adalah 
+* Bug adalah 
 
 # **Priority vs Severity**
 

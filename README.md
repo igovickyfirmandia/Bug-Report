@@ -1,7 +1,12 @@
 # Bug Report
-### Bug report is a critical part of software testing
+### Bug report is a critical part of software testing that ensures a product meets quality standards before its release. Bug report also helps developers understand the issue quickly, prioritize it, and address it efficiently.
 
 # 1. Tools
+### There are 2 type of tools: Bug Tracking Systems & Collaboration Tools
+ * Bug Tracking Systems
+   ### lorem ipsum
+ * Collaboration Tools
+   ### lorem ipsum
 
 # 2. Components of Bug Report
 

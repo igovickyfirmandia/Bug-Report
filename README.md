@@ -30,9 +30,9 @@ The person or team responsible for fixing the bug
 Mention any specific setup or prerequisite required to reproduce the bug
 #### Step to Reproduce
 Steps needed to reproduce the bug in a clear and logical sequence. Example:
-    * User input valid Username
-    * User input valid Password
-    * User click Login button
+  * User input valid Username
+  * User input valid Password
+  * User click Login button
 #### Expected Result
 Clearly describe the expected outcome after following the steps
 #### Actual Result
